@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@mapbox/rehype-prism": "^0.6.0",
+    "@plasmicapp/cli": "^0.1.247",
+    "@plasmicapp/react-web": "^0.2.186",
+    "@plasmicpkgs/plasmic-nav": "^0.0.90",
     "@svgr/webpack": "^5.5.0",
     "@types/js-yaml": "^4.0.0",
     "date-fns": "^2.19.0",
